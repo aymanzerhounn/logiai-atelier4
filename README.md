@@ -88,3 +88,7 @@ Il autorise les méthodes `GET`, `POST` et `OPTIONS` ainsi que les en-têtes `Co
 ## Livraison GitHub
 
 Le travail est développé sur la branche `tp-securite`, soumis par pull request, fusionné dans `main`, puis marqué avec le tag `tp4`.
+
+## Dépôt
+
+- GitHub : https://github.com/aymanzerhounn/logiai-atelier4
