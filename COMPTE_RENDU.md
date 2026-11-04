@@ -80,3 +80,5 @@ const reponse = await fetch(API_URL, {
    - Les données peuvent venir de `curl`, d'autres clients ou être manipulées; l'API reste la frontière de confiance et doit toujours valider.
 
 ## 6. Lien de la pull request
+
+https://github.com/aymanzerhounn/logiai-atelier4/pull/1
